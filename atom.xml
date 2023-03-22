@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-03-16T07:14:52.906Z</updated>
+  <updated>2023-03-22T07:48:50.452Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Netty-nio</title>
+    <link href="http://example.com/2023/03/22/Netty-nio/"/>
+    <id>http://example.com/2023/03/22/Netty-nio/</id>
+    <published>2023-03-22T07:46:29.000Z</published>
+    <updated>2023-03-22T07:48:50.452Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;一-NIO-基础&quot;&gt;&lt;a href=&quot;#一-NIO-基础&quot; class=&quot;headerlink&quot; title=&quot;一. NIO 基础&quot;&gt;&lt;/a&gt;一. NIO 基础&lt;/h1&gt;&lt;p&gt;non-blocking io 非阻塞 IO&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="Netty" scheme="http://example.com/categories/Netty/"/>
+    
+    
+    <category term="Netty - Nio" scheme="http://example.com/tags/Netty-Nio/"/>
+    
+  </entry>
   
   <entry>
     <title>第一篇文章</title>
